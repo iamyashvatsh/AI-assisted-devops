@@ -2,16 +2,9 @@
 🐳 Dockerfile Generator
 A GenAI powered tool that generates optimized Dockerfiles based on programming language input. This project uses Ollama with the Llama3 model to create Dockerfiles following best practices.
 
-📋 Prerequisites
-Installing Ollama
-Download and Install Ollama
 
-# For Linux
-curl -fsSL https://ollama.com/install.sh | sh
 
-# For MacOS
-brew install ollama
-Start Ollama Service
+
 
 ollama serve
 Pull Llama3 Model
